@@ -1,0 +1,19 @@
+# ninja log v6
+7	137	7539314912960746	CMakeFiles/Programacion_estructurada.dir/estudiantes.c.obj	625fa539e862d21
+139	332	7539314914293030	Programacion_estructurada.exe	4aedcc8ca915eb3d
+23	156	7539319646782662	CMakeFiles/Programacion_estructurada.dir/4/tiposestructura.c.obj	a1088a6b5007145
+11	130	7539319646665378	CMakeFiles/Programacion_estructurada.dir/2/uniones.c.obj	47f4cbb428fa822f
+7	94	7539321223598995	CMakeFiles/Programacion_estructurada.dir/5/funcionesyestructuras.c.obj	b2babc3de5bc6947
+17	144	7539319646719392	CMakeFiles/Programacion_estructurada.dir/3/copiaestructuras.c.obj	bd49063292f2d677
+5	158	7539319646603982	CMakeFiles/Programacion_estructurada.dir/1/estudiantes.c.obj	225abc1cb580e0aa
+9	84	7539322227025746	CMakeFiles/Programacion_estructurada.dir/main.c.obj	2cc25d02c02b8466
+38	159	7539331265975786	CMakeFiles/Programacion_estructurada.dir/3/copiaestructuras.c.obj	bd49063292f2d677
+43	163	7539331266018226	CMakeFiles/Programacion_estructurada.dir/4/tiposestructura.c.obj	a1088a6b5007145
+33	169	7539331265921822	CMakeFiles/Programacion_estructurada.dir/2/uniones.c.obj	47f4cbb428fa822f
+26	182	7539331265857854	CMakeFiles/Programacion_estructurada.dir/1/estudiantes.c.obj	225abc1cb580e0aa
+48	189	7539331266080626	CMakeFiles/Programacion_estructurada.dir/5/funcionesyestructuras.c.obj	b2babc3de5bc6947
+21	110	7539334092575449	CMakeFiles/Programacion_estructurada.dir/1/estudiantes.c.obj	225abc1cb580e0aa
+19	89	7539334917297537	CMakeFiles/Programacion_estructurada.dir/main.c.obj	2cc25d02c02b8466
+90	184	7539334918010533	Programacion_estructurada.exe	e517751cee666be1
+19	96	7539335024245350	CMakeFiles/Programacion_estructurada.dir/main.c.obj	2cc25d02c02b8466
+97	193	7539335025028115	Programacion_estructurada.exe	e517751cee666be1
